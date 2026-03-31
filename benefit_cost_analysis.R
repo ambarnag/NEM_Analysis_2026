@@ -6,7 +6,7 @@
 
 options(scipen = 10)
 options(max.print = 100)
-setwd("D:/UC Davis/coursework/4_2025 Fall/EGG 200/final paper/analysis")
+setwd(<working_dir)
 
 library(tidyverse)
 library(lubridate)
