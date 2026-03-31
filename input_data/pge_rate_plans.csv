@@ -1,0 +1,11 @@
+rate_plan,season,tou,pge_rate
+E-TOU-C,summer,peak,0.51
+E-TOU-C,summer,off-peak,0.39
+E-TOU-C,winter,peak,0.39
+E-TOU-C,winter,off-peak,0.36
+EV2-A,summer,peak,0.61
+EV2-A,summer,part-peak,0.5
+EV2-A,summer,off-peak,0.3
+EV2-A,winter,peak,0.49
+EV2-A,winter,part-peak,0.47
+EV2-A,winter,off-peak,0.3
